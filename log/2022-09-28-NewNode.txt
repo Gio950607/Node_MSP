@@ -1,0 +1,1036 @@
+[
+{
+"timestamp":"2022-09-28 00:30:40",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 00:30:41",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 00:30:43",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 00:30:45",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 00:30:51",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:25",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:28",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:31",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:34",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 00:33:11",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 00:42:08",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 00:42:10",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 00:42:12",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 00:42:13",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 00:42:19",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 00:43:58",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:11:06",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:11:08",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 01:11:10",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 01:11:12",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 01:11:16",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 01:12:40",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:12:42",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 01:12:44",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 01:12:47",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 01:12:55",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 01:13:49",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:17:03",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N6",
+"type":"1",
+"address":"172.16.1.7:4005"
+}
+,
+{
+"timestamp":"2022-09-28 01:17:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N10",
+"type":"1",
+"address":"172.16.1.7:4009"
+}
+,
+{
+"timestamp":"2022-09-28 01:18:24",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 01:18:38",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N7",
+"type":"1",
+"address":"172.16.1.7:4006"
+}
+,
+{
+"timestamp":"2022-09-28 01:18:43",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N8",
+"type":"1",
+"address":"172.16.1.7:4007"
+}
+,
+{
+"timestamp":"2022-09-28 01:18:50",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N9",
+"type":"1",
+"address":"172.16.1.7:4008"
+}
+,
+{
+"timestamp":"2022-09-28 01:19:31",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N12",
+"type":"1",
+"address":"172.16.1.7:4011"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:25",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:28",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:30",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:36",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N6",
+"type":"1",
+"address":"172.16.1.7:4005"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:36",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:37",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N7",
+"type":"1",
+"address":"172.16.1.7:4006"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:38",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N8",
+"type":"1",
+"address":"172.16.1.7:4007"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:38",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N9",
+"type":"1",
+"address":"172.16.1.7:4008"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:43",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:46",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N12",
+"type":"1",
+"address":"172.16.1.7:4011"
+}
+,
+{
+"timestamp":"2022-09-28 01:56:50",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 01:57:04",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 01:57:25",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:57:31",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 01:57:38",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 01:59:24",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 01:59:25",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 01:59:26",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 01:59:28",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 01:59:30",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 09:58:19",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 09:58:21",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 09:58:21",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 09:59:02",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 09:59:32",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:08:44",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:08:46",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:08:47",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:08:49",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:08:54",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:11:35",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:11:36",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:12:11",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:12:12",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:12:20",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:13:34",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:13:35",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:13:36",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:13:37",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:13:49",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:17:11",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:17:12",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:17:13",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:17:14",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:17:18",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:19:45",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:19:46",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:19:47",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:19:48",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:19:56",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:21:59",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:22:01",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:22:02",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:22:03",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:22:10",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:31:09",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:31:10",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:31:11",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:31:12",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:31:16",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:27",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N6",
+"type":"1",
+"address":"172.16.1.7:4005"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:27",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N7",
+"type":"1",
+"address":"172.16.1.7:4006"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:28",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N8",
+"type":"1",
+"address":"172.16.1.7:4007"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N12",
+"type":"1",
+"address":"172.16.1.7:4011"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:30",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N9",
+"type":"1",
+"address":"172.16.1.7:4008"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:31",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N10",
+"type":"1",
+"address":"172.16.1.7:4009"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:19",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N1",
+"type":"1",
+"address":"172.16.1.7:4000"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:19",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N3",
+"type":"1",
+"address":"172.16.1.7:4002"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:20",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N2",
+"type":"1",
+"address":"172.16.1.7:4001"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:21",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N4",
+"type":"1",
+"address":"172.16.1.7:4003"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:29",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N6",
+"type":"1",
+"address":"172.16.1.7:4005"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:30",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N12",
+"type":"1",
+"address":"172.16.1.7:4011"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:31",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N11",
+"type":"1",
+"address":"172.16.1.7:4010"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:32",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N10",
+"type":"1",
+"address":"172.16.1.7:4009"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:32",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N9",
+"type":"1",
+"address":"172.16.1.7:4008"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:33",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N8",
+"type":"1",
+"address":"172.16.1.7:4007"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:34",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N7",
+"type":"1",
+"address":"172.16.1.7:4006"
+}
+,
+{
+"timestamp":"2022-09-28 10:40:45",
+"logging":"newnode log",
+"system-name":"MSP",
+"nodeName":"N5",
+"type":"1",
+"address":"172.16.1.7:4004"
+}
+]

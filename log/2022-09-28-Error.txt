@@ -1,0 +1,36 @@
+[
+{
+"timestamp":"2022-09-28 00:16:44",
+"error":"dial tcp 172.16.1.7:7001: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 00:32:25",
+"error":"dial tcp 172.16.1.7:4100: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 01:10:47",
+"error":"dial tcp 172.16.1.7:7001: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 01:24:38",
+"error":"dial tcp 172.16.1.7:4108: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 09:57:44",
+"error":"dial tcp 172.16.1.7:7001: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 10:12:12",
+"error":"dial tcp 172.16.1.7:4103: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-28 10:35:30",
+"error":"dial tcp 172.16.1.7:4108: connect: connection refused"
+}
+]

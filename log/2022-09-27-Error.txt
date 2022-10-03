@@ -1,0 +1,101 @@
+[
+{
+"timestamp":"2022-09-27 10:58:14",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:14",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:14",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:15",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:15",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:16",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 10:58:16",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 17:37:37",
+"error":"dial tcp 172.16.1.7:4100: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-27 18:39:42",
+"error":"dial tcp 172.16.1.7:4101: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-27 20:01:57",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 20:38:06",
+"error":"dial tcp 172.16.1.7:4104: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-27 20:38:34",
+"error":"dial tcp 172.16.1.7:4110: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-27 20:39:18",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"Connection error"
+}
+,
+{
+"timestamp":"2022-09-27 22:28:52",
+"error":"dial tcp 172.16.1.7:4100: connect: connection refused"
+}
+,
+{
+"timestamp":"2022-09-27 22:29:42",
+"logging":"error log",
+"system-name":"MSP",
+"errmsg":"ConnectionError"
+}
+,
+{
+"timestamp":"2022-09-27 22:30:08",
+"error":"dial tcp 172.16.1.7:4101: connect: connection refused"
+}
+]
